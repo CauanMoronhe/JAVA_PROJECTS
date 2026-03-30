@@ -1,0 +1,50 @@
+Brasil;Brasilia;1822
+Argentina;Buenos Aires;1816
+Portugal;Lisboa;1143
+Japao;Toquio;660
+Estados Unidos;Washington DC;1776
+Canada;Ottawa;1867
+Mexico;Cidade do Mexico;1810
+Alemanha;Berlim;1871
+Franca;Paris;843
+Reino Unido;Londres;1707
+Italia;Roma;1861
+Espanha;Madri;1469
+China;Pequim;221
+Russia;Moscou;862
+India;Nova Delhi;1947
+Australia;Camberra;1901
+Coreia do Sul;Seul;1948
+Coreia do Norte;Pyongyang;1948
+Africa do Sul;Pretoria;1910
+Egito;Cairo;1922
+Turquia;Ancara;1923
+Grecia;Atenas;1821
+Suecia;Estocolmo;1523
+Noruega;Oslo;1905
+Finlandia;Helsinque;1917
+Dinamarca;Copenhague;1397
+Holanda;Amsterda;1581
+Belgica;Bruxelas;1830
+Suica;Berna;1291
+Austria;Viena;976
+Polonia;Varsovia;966
+Ucrania;Kiev;1991
+Chile;Santiago;1818
+Peru;Lima;1821
+Colombia;Bogota;1810
+Uruguai;Montevideu;1828
+Paraguai;Assuncao;1811
+Bolivia;La Paz;1825
+Venezuela;Caracas;1811
+Equador;Quito;1822
+Panama;Cidade do Panama;1903
+Cuba;Havana;1902
+Republica Dominicana;Santo Domingo;1844
+Haiti;Porto Principe;1804
+Nova Zelandia;Wellington;1907
+Irlanda;Dublin;1922
+Islandia;Reykjavik;1944
+Nigeria;Abuja;1960
+Quenia;Nairobi;1963
+Marrocos;Rabat;1956
