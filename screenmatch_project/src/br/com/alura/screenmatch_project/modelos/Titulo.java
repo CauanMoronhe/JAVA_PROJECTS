@@ -43,16 +43,8 @@ public class Titulo implements Comparable<Titulo>{
         return this.nome;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
     public int getAnoDeLancamento() {
         return this.anoDeLancamento;
-    }
-
-    public void setAnoDeLancamento(int anoDeLancamento) {
-        this.anoDeLancamento = anoDeLancamento;
     }
 
     public void setIncluidoNoPlano(boolean incluidoNoPlano) {
@@ -74,8 +66,8 @@ public class Titulo implements Comparable<Titulo>{
 
     @Override
     public String toString() {
-        return "nome= " + nome +
-                ", anoDeLancamento= " + anoDeLancamento +
-                ", duração= " + duracaoEmMinutos;
+        return "(nome = " + nome +
+                ", Ano de lancamento = " + anoDeLancamento +
+                ", duração = " + duracaoEmMinutos + ")";
     }
 }
